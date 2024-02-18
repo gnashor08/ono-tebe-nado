@@ -247,7 +247,7 @@
     align-items: center;
     border-radius: 50%;
     width: 240px;
-    height: 240px; 
+    height: 240px;
     background-color: black;
     margin-left: auto;
     margin-right: auto;
@@ -301,7 +301,6 @@
     margin-right: 23px;
     height: 85px;
     font-size: 18px;
-    line-height: 24.3px;
 }
 
 .footer__address address a {
@@ -329,7 +328,6 @@
 }
 
 .footer__menu-list a {
-    text-decoration: none;
     text-decoration: underline 1px;
     text-underline-offset: 3px;
     text-decoration-skip-ink: none;
