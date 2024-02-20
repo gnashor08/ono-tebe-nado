@@ -327,9 +327,12 @@ address {
 }
 
 .footer__menu-list a {
-    text-decoration: underline 1px;
-    text-underline-offset: 3px;
-    text-decoration-skip-ink: none;
+    text-decoration: none;
+    border-bottom: 1px solid black;
+}
+
+.footer__menu .footer__link_active {
+    border-bottom: none;
 }
 
 .footer__social-list {
